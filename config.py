@@ -1,5 +1,5 @@
-TOKEN = '2135792032:AAFMhQkUhKjgHsjkSauQyJDbbW6GLbKQQmc'
-APIkey = "RLV3yXqIGiJFTlHJkgdBnOtl6QG97HjI"
+TOKEN = ''
+APIkey = ""
 
 currency = {
     'рубль' : 'RUB',
